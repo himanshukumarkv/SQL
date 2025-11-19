@@ -6,6 +6,6 @@ create table child(
 );
 insert into child values("rakesh",12);
 insert into child values("rajesh",13);
-select * from child;
+select * from child
 
 
